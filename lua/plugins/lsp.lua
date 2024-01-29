@@ -18,7 +18,6 @@ return {
         "gotests",
         "golines",
         "rust-analyzer",
-        "rustfmt",
         "sqlfluff",
       },
     },
